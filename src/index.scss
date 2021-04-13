@@ -1,0 +1,32 @@
+html,
+body {
+  color: #333;
+  background-color: #fff;
+  font-family: 'Microsoft YaHei';
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+}
+
+p,
+h3,
+ul,
+dd {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #333;
+}
